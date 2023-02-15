@@ -477,9 +477,9 @@ header #logo img {
 /*画像の設定*/
 .prof img {
 	width: 100%;			/*画像幅*/
-	float: left;		/*画像を左に回り込み*/
+	/*float: left;		/*画像を左に回り込み*/
 	margin-left: 1%;
-	margin-right: 3%;	/*画像の右側に空けるスペース*/
+	margin-right: 1%;	/*画像の右側に空けるスペース*/
 }
 /*段落タグ*/
 .prof p {
@@ -607,9 +607,9 @@ ol {
 /*画像の設定*/
 .prof img {
 	width: 100%;			/*画像幅*/
-	float: left;		/*画像を左に回り込み*/
+	/*float: left;		/*画像を左に回り込み*/
 	margin-left: 1%;
-	margin-right: 3%;	/*画像の右側に空けるスペース*/
+	margin-right: 1%;	/*画像の右側に空けるスペース*/
 }
 /*段落タグ*/
 .prof p {
